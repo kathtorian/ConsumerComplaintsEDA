@@ -99,7 +99,7 @@ ConsumerComplaints_EDA/
 │── EDA_SQL_queries.sql            # SQL queries used in analysis
 │── LICENSE                        # Project license (MIT, etc.)
 │── README.md                      # Project documentation
-
+```
 
 ## 🚀 Next Steps  
 📌 Future improvements and extensions for this project:  
@@ -119,4 +119,5 @@ ConsumerComplaints_EDA/
 
 🌐 **Find me online:**  
 - 💼 [LinkedIn](https://www.linkedin.com/katherine-torian)  
+
 - 🐙 [GitHub](https://www.github.com/kathtorian)  
